@@ -42,7 +42,12 @@ To use this repository for feature extraction and model training
   organization={IEEE}
 }
 
-You may also access the paper: https://doi.org/10.1007/978-3-031-75596-5_6
+You may also access the paper: https://ieeexplore.ieee.org/document/10773854
+
+## Published in: **2024 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)**
+-**Date Added to IEEE Xplore: 10 December 2024**
+
+-**Conference Location: Danang, Vietnam**
 
 ```
 Thi-Thu-Hong Phan, Le Huu Bao Nguyen
